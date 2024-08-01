@@ -13,9 +13,9 @@ Work and Experience
 ======
 
 
-Skills
+Projects
 ======
 
 
-Projects
+Skills
 ------
