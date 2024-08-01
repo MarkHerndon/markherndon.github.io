@@ -21,11 +21,11 @@ repository               : "MarkHerndon/markherndon.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Users/markherndon/Library/Mobile Documents/com~apple~CloudDocs"
   name             : "Mark Herndon"
   pronouns         : # example: "she/her"  
   bio              : "Second Year Statistics and Data Science student at The University of Texas in Austin"
-  location         : "Austin, Tx"
+  location         : "Austin, Texas"
   employer         : 
   uri              : # URL
   email            : "mherndon447@gmail.com" 
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/MarkHerndon"
+  github           : "Mark Herndon"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
