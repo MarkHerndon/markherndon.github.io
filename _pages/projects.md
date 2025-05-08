@@ -8,7 +8,7 @@ permalink: /projects/
 
   <h2>Personal Projects:</h2>
 
-  <p><strong>Predicting Housing Prices (Supervised Learning in R):</strong> Used linear regression and cross-validation to estimate home prices from housing datasets.</p>
+  <p><strong>Predicting Housing Prices (Supervised Learning in R):</strong> file </p>
 
 </div>
 
