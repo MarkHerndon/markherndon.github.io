@@ -4,6 +4,8 @@ title: Resume
 permalink: /resume/
 ---
 
+<br><br>
+
 
 <div style="margin-left: 40px;">
 
