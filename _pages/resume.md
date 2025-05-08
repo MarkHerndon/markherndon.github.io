@@ -5,5 +5,8 @@ permalink: /resume/
 ---
 
 
+<div style="margin-left: 40px;">
 
-  Resume: /files/rmherndon_resume_1.pdf
+  <p><strong>View or Download here:</strong> /files/rmherndon_resume_1.pdf </p> 
+
+<div>
