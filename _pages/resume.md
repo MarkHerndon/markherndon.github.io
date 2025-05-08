@@ -6,4 +6,4 @@ permalink: /resume/
 
 
 
-Resume: /files/rmherndon_resume_1.pdf
+  Resume: /files/rmherndon_resume_1.pdf
