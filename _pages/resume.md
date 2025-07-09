@@ -11,7 +11,7 @@ permalink: /resume/
 <br><br>
 
   <p><strong>View or Download here:</strong> 
-    <a href="/files/rmherndon_resume_1.pdf" target="_blank">Mark Herndon Resume</a>
+    <a href="/files/rmherndon_resume.pdf" target="_blank">Mark Herndon Resume</a>
   </p> 
 
 </div>
